@@ -4,6 +4,6 @@ import 'zeppelin-solidity/contracts/token/ERC721/ERC721Token.sol';
 import 'zeppelin-solidity/contracts/ownership/Ownable.sol';
 
 contract GradientToken is ERC721Token, Ownable {
-  string public constant name = "GradientToken";
-  string public constant symbol = "GRAD";
+  string public constant NAME = "GradientToken";
+  string public constant SYMBOL = "GRAD";
 }
