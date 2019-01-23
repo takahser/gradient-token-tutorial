@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "takahser",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "zeppelin-solidity": "^1.12.0"
+  }
 }
